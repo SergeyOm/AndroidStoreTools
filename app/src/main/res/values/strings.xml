@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">EduProject_22092016</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="message_text_mail">Do you want to send email ?</string>
+    <string name="message_text_phone">Do you want to call ?</string>
+</resources>
